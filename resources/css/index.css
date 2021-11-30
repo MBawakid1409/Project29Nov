@@ -1,0 +1,61 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 25px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color:lightcyan;
+    color:blue;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small-sticky {
+    height: 100px;
+    width: 100px;
+}
+
+#hello {
+    color: blue;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color:blue;
+}
+
+#helloos ul {
+    list-style-type: none;
+}
+
+.hello-section {
+    padding: 20px 50px;
+}
+
+.avatar {
+    background-image: url("../images/stickey.png");
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
